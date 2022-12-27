@@ -1,0 +1,13 @@
+#first-container {
+    background-color: rgb(76, 99, 117);
+    border:10%;
+    padding: 20%;
+}
+#second-container {
+    background-color: white;
+    border-radius: 10%;
+    max-width: 30%;
+    padding: 10%;
+    border: 20%;
+    height: fit-content;
+}
